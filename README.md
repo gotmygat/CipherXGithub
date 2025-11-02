@@ -8,8 +8,8 @@
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Solana](https://img.shields.io/badge/Solana-Powered-9945FF?logo=solana)](https://solana.com)
-  ![Built with AI](https://img.shields.io/badge/Built%20with-AI-FF7122)
-  ![Status: Active](https://img.shields.io/badge/Status-Active-success)
+  <span style="display:inline-block;padding:4px 8px;background:#FF7122;color:white;border-radius:4px;font-weight:bold;font-size:11px;margin:2px;">Built with AI</span>
+  <span style="display:inline-block;padding:4px 8px;background:#28a745;color:white;border-radius:4px;font-weight:bold;font-size:11px;margin:2px;">Status: Active</span>
 
 </div>
 
