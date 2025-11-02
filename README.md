@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![CipherX Banner](./assets/cipherx-logo.svg)
+  ![CipherX Banner](./assets/cipherx-logo.svg?v=2)
   
   **Advanced AI-Powered Cryptocurrency Trading Intelligence Platform**
   
