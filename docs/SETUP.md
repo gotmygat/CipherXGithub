@@ -481,7 +481,7 @@ Need help? Reach out:
 
 - **Discord**: [Join our server](https://discord.gg/cipherx)
 - **Telegram**: [@CipherXSupport](https://t.me/CipherXSupport)
-- **Email**: support@cipherx.io
+- **Email**: support@cipherx.com
 - **GitHub Issues**: [Report a bug](https://github.com/gotmygat/CipherXGithub/issues)
 
 ---

@@ -233,7 +233,7 @@ If you have ideas on how to implement this, share them here.
 
 ## 🔒 Security
 
-**DO NOT** create public issues for security vulnerabilities. Instead, please email security@cipherx.io with:
+**DO NOT** create public issues for security vulnerabilities. Instead, please email security@cipherx.com with:
 
 - Description of the vulnerability
 - Steps to reproduce
@@ -269,8 +269,8 @@ We are committed to providing a welcoming and inspiring community for all. Pleas
 - **General Questions**: Open a GitHub Discussion
 - **Bug Reports**: Create a GitHub Issue
 - **Feature Requests**: Create a GitHub Issue with "enhancement" label
-- **Security Concerns**: Email security@cipherx.io
-- **Other Inquiries**: Email support@cipherx.io
+- **Security Concerns**: Email security@cipherx.com
+- **Other Inquiries**: Email support@cipherx.com
 
 ---
 

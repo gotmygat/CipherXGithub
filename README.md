@@ -212,7 +212,7 @@ CipherX takes security seriously. We implement:
 - **Telegram**: [@CipherXOfficial](https://t.me/CipherXOfficial)
 - **Twitter**: [@CipherXAI](https://twitter.com/CipherXAI)
 - **Discord**: [Join Our Server](https://discord.gg/cipherx)
-- **Email**: support@cipherx.io
+- **Email**: support@cipherx.com
 
 ---
 

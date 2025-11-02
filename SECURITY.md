@@ -8,7 +8,7 @@ The CipherX team takes security seriously. We appreciate your efforts to respons
 
 **DO NOT** create public GitHub issues for security vulnerabilities.
 
-Instead, please email us at: **security@cipherx.io**
+Instead, please email us at: **security@cipherx.com**
 
 Include the following information:
 - Type of vulnerability
@@ -158,14 +158,14 @@ If you suspect your account has been compromised:
 2. Enable 2FA if not already enabled
 3. Revoke all API keys and generate new ones
 4. Review recent account activity
-5. Contact support@cipherx.io
+5. Contact support@cipherx.com
 
 ---
 
 ## 📞 Contact Information
 
-- **Security Issues**: security@cipherx.io
-- **General Support**: support@cipherx.io
+- **Security Issues**: security@cipherx.com
+- **General Support**: support@cipherx.com
 - **PGP Key**: [Download our PGP key](https://cipherx.io/.well-known/pgp-key.txt)
 
 ### Security Team
@@ -178,7 +178,7 @@ If you suspect your account has been compromised:
 ## 🔄 Security Updates
 
 Stay informed about security updates:
-- **Security Mailing List**: security-announce@cipherx.io
+- **Security Mailing List**: security-announce@cipherx.com
 - **Twitter**: [@CipherXSecurity](https://twitter.com/CipherXSecurity)
 - **Status Page**: [status.cipherx.io](https://status.cipherx.io)
 - **GitHub Advisories**: Watch this repo for security advisories
